@@ -1,0 +1,2 @@
+class ForceQuit < StandardError; end
+
